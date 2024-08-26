@@ -1,26 +1,26 @@
 # 🟡E_masiya
-이맛이야 - 이화여대 주변 맛집 정보 웹  
+:golf: Restaurant Guide Web Service
 http://plammet.pythonanywhere.com/
 ---
 
-### 프로젝트 계획 이유
+### 프로젝트 계획 이유 Project Motivation
 코로나로 인해 이화사이버캠퍼스를 다닌 지 2년이 되었고, 학교 주변 맛집에 대한 정보를 찾기 어려운 점을 많이 느꼈습니다. 
 이에 학교 재학생들이 풍부한 먹거리와 함께 행복한 학교생활을 하는 바람에서 맛집 추천 웬사이트 프로젝트를 기획하게 되었습니다.
 
 ---
-### 개발기간
+### 개발기간 Development Period
 2022.09.06 ~ 2022.12.20
 
 ---
-### 개발 환경
-- goormide
+### 개발 환경 Development Environment
+- GoormIDE
 - Flask
-- firebase
-- HTML , CSS, JS
+- Firebase
+- HTML, CSS, JS
 
 ---
 
-### E_masiya 프로젝트 기능 설명
+### 프로젝트 기능 설명 Project Features
 
 ![pages](./화면구성1.png)
 ![pages](./화면구성2.png)
@@ -55,5 +55,5 @@ http://plammet.pythonanywhere.com/
 ---
 
 ### 기여할 수 있는 방법(Contributing)
-- pullrequest를 보내주세요.
-- (https://github.com/Plammet/E_masiya) 를 포크하세요.
+- **Pull request**를 보내주세요.
+- (https://github.com/Plammet/E_masiya) 를 **fork**하세요.
