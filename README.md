@@ -1,4 +1,4 @@
-# 🟡이맛이야! E-Masiya: This is the taste! 
+# 🟡이맛이야! | E-Masiya: This is the taste! 
 :golf: Restaurant Guide Web Service
 
 http://plammet.pythonanywhere.com/
